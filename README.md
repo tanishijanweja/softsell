@@ -8,7 +8,7 @@ SoftSell is a fictional company that helps users sell unused software licenses f
 
 ## 🚀 Live Site
 
-🔗 [softsell.vercel.app](https://softsell-a0l1bvoax-tanishi-janwejas-projects.vercel.app)
+🔗 [softsell.vercel.app](https://softsell-two-alpha.vercel.app/)
 
 ## 🛠️ Features Implemented
 
@@ -42,8 +42,7 @@ SoftSell is a fictional company that helps users sell unused software licenses f
 
 ## 🔧 Setup
 
-```bash
-git clone https://github.com/tanishijanweja/softsell.git
+git clone https://github.com/tanishijanweja/softsell
 cd softsell
 npm install
 npm run dev
